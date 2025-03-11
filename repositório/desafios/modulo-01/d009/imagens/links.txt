@@ -1,0 +1,7 @@
+hardware = <iframe width="560" height="315" src="https://www.youtube.com/embed/iT6E92Kt38o?si=qkHckdvgPJTlbkQN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+html = <iframe width="560" height="315" src="https://www.youtube.com/embed/Ejkb_YpuHWs?si=ljRvbrVfxO2ZkLK_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+js = <iframe width="560" height="315" src="https://www.youtube.com/embed/1-w1RfGIov4?si=wCLFYDSM1g8goye7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+python = <iframe width="560" height="315" src="https://www.youtube.com/embed/S9uPNppGsGo?si=VwTDUoltRjP5MZMK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
