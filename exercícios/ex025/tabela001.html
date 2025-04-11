@@ -12,12 +12,19 @@
         table {
             border-collapse: collapse;
             width: 200px;
+            height: 200px;
             text-align: center;
+
+        }
+
+        tr.linha {
+            background-color: gray;
         }
 
         td {
             border: 1px solid black;
             padding: 8px;
+            vertical-align: top;
         }
 
     </style>
@@ -37,7 +44,7 @@
             <td>B1</td>
             <td>C1</td>
         </tr>
-        <tr>
+        <tr class="linha">
             <td>A2</td>
             <td>B2</td>
             <td>C2</td>
