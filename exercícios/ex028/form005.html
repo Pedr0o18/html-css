@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+<body>
+    <h1>Testes com Formulários</h1>
+    <form action="cadastro.py" method="get" autocomplete="on">
+        <fieldset>
+            <legend>Sexo</legend>
+            <label for="imas">Masculino</label> <input type="radio" name="sexo" id="imas"> <br>
+            <label for="ifem">Feminino</label> <input type="radio" name="sexo" id="ifem"> <br>
+        </fieldset>
+        <fieldset>
+            <legend>Esportes Favoritos</legend>
+            <label for="iespfut">Futebol</label><input type="checkbox" name="espfut" id="iespfut"> <br>
+            <label for="iespnat">Natação</label><input type="checkbox" name="espnat" id="iespnat"> <br>
+            <label for="iespvol">Vólei</label><input type="checkbox" name="espvol" id="iespvol"> <br>
+        </fieldset>
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+    </form>
+</body>
+</html>
